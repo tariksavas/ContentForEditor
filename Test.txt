@@ -1,1 +1,14 @@
-Testing
+[
+    {
+        "assetName" : "dancing women",
+        "downloadUrl" : "https://assetdownload.com/dancing-women"
+    },
+    {
+        "assetName" : "cat",
+        "downloadUrl" : "https://assetdownload.com/cat"
+    },
+    {
+        "assetName" : "animated cube",
+        "downloadUrl" : "https://assetdownload.com/animated-cube"
+    }
+]
