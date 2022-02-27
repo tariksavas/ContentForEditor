@@ -1,14 +1,14 @@
 [
     {
-        "assetName" : "dancing women",
-        "downloadUrl" : "https://assetdownload.com/dancing-women"
+        "assetName" : "dancer",
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/AssetBundles/dancer-Android"
     },
     {
-        "assetName" : "cat",
-        "downloadUrl" : "https://assetdownload.com/cat"
+        "assetName" : "kid",
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/AssetBundles/kid-Android"
     },
     {
-        "assetName" : "animated cube",
-        "downloadUrl" : "https://assetdownload.com/animated-cube"
+        "assetName" : "monster",
+        "downloadUrl" : "https://raw.githubusercontent.com/tariksavas/ContentForEditor/main/AssetBundles/monster-Android"
     }
 ]
